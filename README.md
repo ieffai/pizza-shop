@@ -4,7 +4,7 @@ Online shop with the most delicious pizza in the world. Yaami! <br />
 
 - **Demo**
 
-  https://ieffai.github.io/pizza-shop/ <br />
+  https://best-pizza-ever.herokuapp.com/ <br />
 
 ---
 
