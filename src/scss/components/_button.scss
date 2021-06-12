@@ -95,6 +95,13 @@
     margin-right: 14px;
   }
 
+  @media screen and (max-width: 425px) {
+    &__delimiter {
+      margin-left: 5px;
+      margin-right: 5px;
+    }
+  }
+
   &--add {
     svg {
       margin-right: 2px;
@@ -143,6 +150,16 @@
     span {
       font-weight: 600;
       font-size: 16px;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    &--cart {
+      padding: 10px 15px;
+    }
+  }
+  @media screen and (max-width: 425px) {
+    &--cart {
+      padding: 10px 10px;
     }
   }
 }

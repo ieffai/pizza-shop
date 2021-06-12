@@ -24,9 +24,29 @@
       text-transform: uppercase;
       font-weight: 800;
     }
+    @media screen and (max-width: 768px) {
+      h1 {
+        max-width: 70px;
+        font-size: 16px;
+      }
+    }
 
     p {
       color: #7b7b7b;
     }
+    @media screen and (max-width: 768px) {
+      p {
+        display: none;
+      }
+    }
+  }
+}
+@media screen and (max-width: 767px) {
+  .header {
+    position: fixed;
+    background-color: #fff;
+    width: 100%;
+    z-index: 99;
+    padding: 15px;
   }
 }
