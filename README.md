@@ -9,7 +9,7 @@ Online shop with the most delicious pizza in the world. Yaami! <br />
 ---
 
 - **Used technologies**
-  - Sass, REACT, Redux,
+  - Sass, React, Redux,
 
 ## ![pizza](./demo.png)
 
